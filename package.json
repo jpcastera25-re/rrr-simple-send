@@ -1,0 +1,20 @@
+{
+  "name": "rrr-simple-send",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "postmark": "3.0.12",
+    "twilio": "4.23.0"
+  },
+  "devDependencies": {
+    "typescript": "5.6.2"
+  }
+}
